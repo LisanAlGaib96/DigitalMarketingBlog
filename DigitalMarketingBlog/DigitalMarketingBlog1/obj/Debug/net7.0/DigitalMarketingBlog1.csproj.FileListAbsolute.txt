@@ -1,0 +1,60 @@
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\bin\Debug\net7.0\appsettings.json
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\bin\Debug\net7.0\DigitalMarketingBlog1.staticwebassets.runtime.json
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\bin\Debug\net7.0\DigitalMarketingBlog1.exe
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\bin\Debug\net7.0\DigitalMarketingBlog1.deps.json
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\bin\Debug\net7.0\DigitalMarketingBlog1.runtimeconfig.json
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\bin\Debug\net7.0\DigitalMarketingBlog1.dll
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\bin\Debug\net7.0\DigitalMarketingBlog1.pdb
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.AssemblyInfoInputs.cache
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.AssemblyInfo.cs
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.csproj.CoreCompileInputs.cache
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.RazorAssemblyInfo.cache
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.RazorAssemblyInfo.cs
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\staticwebassets\msbuild.DigitalMarketingBlog1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\staticwebassets\msbuild.build.DigitalMarketingBlog1.props
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DigitalMarketingBlog1.props
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DigitalMarketingBlog1.props
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\scopedcss\bundle\DigitalMarketingBlog1.styles.css
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\scopedcss\projectbundle\DigitalMarketingBlog1.bundle.scp.css
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.dll
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\refint\DigitalMarketingBlog1.dll
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.pdb
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.genruntimeconfig.cache
+C:\Users\Huawei D15\source\repos\DigitalMarketingBlog1\obj\Debug\net7.0\ref\DigitalMarketingBlog1.dll
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\bin\Debug\net7.0\appsettings.json
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\bin\Debug\net7.0\DigitalMarketingBlog1.staticwebassets.runtime.json
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\bin\Debug\net7.0\DigitalMarketingBlog1.exe
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\bin\Debug\net7.0\DigitalMarketingBlog1.deps.json
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\bin\Debug\net7.0\DigitalMarketingBlog1.runtimeconfig.json
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\bin\Debug\net7.0\DigitalMarketingBlog1.dll
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\bin\Debug\net7.0\DigitalMarketingBlog1.pdb
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.AssemblyInfoInputs.cache
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.AssemblyInfo.cs
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.csproj.CoreCompileInputs.cache
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.RazorAssemblyInfo.cache
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.RazorAssemblyInfo.cs
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\staticwebassets\msbuild.DigitalMarketingBlog1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\staticwebassets\msbuild.build.DigitalMarketingBlog1.props
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DigitalMarketingBlog1.props
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DigitalMarketingBlog1.props
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\scopedcss\bundle\DigitalMarketingBlog1.styles.css
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\scopedcss\projectbundle\DigitalMarketingBlog1.bundle.scp.css
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.dll
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\refint\DigitalMarketingBlog1.dll
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.pdb
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\DigitalMarketingBlog1.genruntimeconfig.cache
+C:\Users\Huawei D15\OneDrive\Masaüstü\Busra Nur Yagci\DigitalMarketingBlog\DigitalMarketingBlog1\obj\Debug\net7.0\ref\DigitalMarketingBlog1.dll

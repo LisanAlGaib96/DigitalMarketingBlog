@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DigitalMarketingBlog1/1.0.0": {
+        "runtime": {
+          "DigitalMarketingBlog1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DigitalMarketingBlog1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

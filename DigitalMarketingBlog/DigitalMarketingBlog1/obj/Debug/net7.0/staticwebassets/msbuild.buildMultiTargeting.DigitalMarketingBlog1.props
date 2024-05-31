@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DigitalMarketingBlog1.props" />
+</Project>

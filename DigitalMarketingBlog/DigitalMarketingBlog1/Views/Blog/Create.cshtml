@@ -1,0 +1,31 @@
+﻿@model Blog
+
+    <form asp-controller="Blog" asp-action="Create" method="post" enctype="multipart/form-data">
+        <div asp-validation-summary="All"></div>
+        <div class="mb-3">
+            <label asp-for="PostName" class="form-label">Post Name</label>
+            <input asp-for="PostName" class="form-control" />
+            <span asp-validation-for="PostName"></span>
+        </div>
+    <div class="mb-3">
+        <label asp-for="Date" class="form-label">Date</label>
+        <input asp-for="Date" class="form-control" />
+        <span asp-validation-for="Date"></span>
+    </div>
+    <div class="mb-3">
+       <input type="file" name="imageFile" id="imageFile" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="CategoryId" class="form-label">Category</label>
+        <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-select">
+            <option value="0">All</option>
+        </select>
+        <span asp-validation-for="CategoryId"></span>
+        </div>
+        <div class="mb-3 form-check">
+            <input asp-for="IsActive" class="form-check-input" />
+            <label asp-for="IsActive" class="form-check-label">IsActive</label>
+            <span asp-validation-for="IsActive"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Save</button>
+    </form>

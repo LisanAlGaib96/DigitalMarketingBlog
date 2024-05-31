@@ -1,0 +1,31 @@
+﻿@model Post
+<h2>Add Blog Post</h2>
+<hr />
+<form action="/CreateBlog/Create" method="post">
+    <div class="mb-3">
+        <label for="Title" class="form-label">Title</label>
+        <input type="text" name="Title" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label for="Description" class="form-label">Description</label>
+        <input type="text" name="Description" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label for="Content" class="form-label">Content</label>
+        <input type="text" name="Content" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label for="Image" class="form-label">Image</label>
+        <input type="text" name="Image" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label for="CategoryId" class="form-label">CategoryId</label>
+        <select for="CategoryId" id="CategoryId" class="form-control">
+            <option value="0">All</option>
+            @foreach(var item in ViewBag.Posts)
+            {
+                <option value="@item.PostId">@item.Title</option>
+            }
+        </select>
+    </div>
+</form>

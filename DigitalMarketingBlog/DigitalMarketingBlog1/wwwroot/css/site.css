@@ -1,0 +1,163 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.banner {
+    border: solid;
+    border-color: lightblue;
+    background-color: lightgray;
+    border-width: 10px;
+    margin: auto;
+    width: 1000px;
+    height: 100px;
+}
+
+.btn-secondary {
+    position: absolute;
+    left: 990px;
+    top: 850px;
+}
+
+.typo {
+    color: darkslateblue;
+}
+
+.admin1 {
+    color: darkslateblue;
+}
+
+.may1 {
+    color: darkslateblue;
+}
+
+.comments1 {
+    color: darkslateblue;
+}
+
+.typo1 {
+    color: darkslateblue;
+}
+
+.admin2 {
+    color: darkslateblue;
+}
+
+.Jan2 {
+    color: darkslateblue;
+}
+
+.comments2 {
+    color: darkslateblue;
+}
+
+.admin3 {
+    color: darkslateblue;
+}
+
+.Feb3 {
+    color: darkslateblue;
+}
+
+.Comments3 {
+    color: darkslateblue;
+}
+
+.typo2 {
+    color: darkslateblue;
+}
+
+figcaption {
+    color: navy;
+    font-style: inherit;
+    padding: 2px;
+    text-align: initial;
+}
+
+.fig2 {
+    color: navy;
+    font-style: inherit;
+    padding: 2px;
+    text-align: initial;
+}
+
+.content{
+    position:relative;
+    left:1000px;
+}
+
+.sidebar-heading{
+    position:relative;
+    left:1020px;
+}
+
+.center1 {
+    /*position:relative;
+    top:10px;
+    left:10px;
+    right:300px;
+    bottom:300px;*/
+/*    display:flex;*/
+    position:relative;
+    margin-left:150px;
+    /*margin-right:150px;*/
+    /*padding:-5px;*/
+    top:-250px;
+    left:200px;
+    /*bottom:500px;*/
+    width: 50%
+}
+
+.headline{
+    position:relative;
+    top:-210px;
+}
+
+.text1{
+    position:relative;
+    top:-175px;
+}
+
+.text2{
+    position:relative;
+    top:-150px;
+}
+
+.text3{
+    position:relative;
+    top:-125px;
+}
+
+.text4{
+    position:relative;
+    top:-100px;
+}
+
+.text5{
+    position:relative;
+    top:-80px;
+}
+
+.submittingform{
+    position:relative;
+    left:350px;
+    right:500px;
+}

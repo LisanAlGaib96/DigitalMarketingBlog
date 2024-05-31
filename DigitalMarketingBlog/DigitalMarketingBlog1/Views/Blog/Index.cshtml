@@ -1,0 +1,49 @@
+﻿@model BlogViewModel
+
+<form asp-controller="Blog" asp-action="Index" method="get">
+    <div class="card card-body my-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-11">
+                    <select name="Category" class="form-select" asp-items="@(new SelectList(Repository.Categories,"CategoryId","Name",Model.SelectedCategory))">
+                        <option value="0">All</option>
+                    </select>
+                    <div class="col-md-1">
+                        <button type="submit" class="btn btn-primary">Filter</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+<a href="/Blog/Create" class="btn btn-primary">Create/Add Blog</a>
+<br /><br />
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th style="width:100px;">@Html.DisplayNameFor(m => m.Blogs[0].Id)</th>
+            <th style="width:100px;">@Html.DisplayNameFor(m => m.Blogs[0].Image)</th>
+            <th style="width:100px;">@Html.DisplayNameFor(m => m.Blogs[0].PostName)</th>
+            <th style="width:100px;">@Html.DisplayNameFor(m => m.Blogs[0].Date)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var blg in Model.Blogs)
+        {
+            <tr>
+                <td>@blg.Id</td>
+                <td>
+                    <img src="~/img/@blg.Image" class="img-fluid" alt="" />
+                <td>@blg.PostName</td>
+                <td>@blg.Date</td>
+                <td>
+                    <a href="/Blog/Edit/@blg.Id" class="btn btn-sm btn-primary">Edit</a>
+                    <a asp-controller="Blog" asp-action="Delete" asp-route-id="@blg.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table> 
+
+

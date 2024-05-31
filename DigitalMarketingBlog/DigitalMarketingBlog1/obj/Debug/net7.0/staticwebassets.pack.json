@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DigitalMarketingBlog1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DigitalMarketingBlog1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\1a59d5b2-0dd0-49cd-bf7f-d30fdd61082a .jpg",
+      "PackagePath": "staticwebassets\\img\\1a59d5b2-0dd0-49cd-bf7f-d30fdd61082a .jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\33326f47-595d-4487-bd48-41b2a2fa6dc3 .png",
+      "PackagePath": "staticwebassets\\img\\33326f47-595d-4487-bd48-41b2a2fa6dc3 .png"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\about-us.jpg",
+      "PackagePath": "staticwebassets\\img\\about-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\ai.jpg",
+      "PackagePath": "staticwebassets\\img\\ai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\bannernew.png",
+      "PackagePath": "staticwebassets\\img\\bannernew.png"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\bc86113c-0624-4743-8e46-6e9c8c3291c7 .png",
+      "PackagePath": "staticwebassets\\img\\bc86113c-0624-4743-8e46-6e9c8c3291c7 .png"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\best.jpg",
+      "PackagePath": "staticwebassets\\img\\best.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\communication.jpg",
+      "PackagePath": "staticwebassets\\img\\communication.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\customerisright.jpg",
+      "PackagePath": "staticwebassets\\img\\customerisright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\proverbial.jpg",
+      "PackagePath": "staticwebassets\\img\\proverbial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\revolutionize.jpg",
+      "PackagePath": "staticwebassets\\img\\revolutionize.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\settingdeadlines.jpg",
+      "PackagePath": "staticwebassets\\img\\settingdeadlines.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\submit.jpg",
+      "PackagePath": "staticwebassets\\img\\submit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\tr.png",
+      "PackagePath": "staticwebassets\\img\\tr.png"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\unlock.jpg",
+      "PackagePath": "staticwebassets\\img\\unlock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\img\\wellbegun.jpg",
+      "PackagePath": "staticwebassets\\img\\wellbegun.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Huawei D15\\OneDrive\\Masaüstü\\Busra Nur Yagci\\DigitalMarketingBlog\\DigitalMarketingBlog1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DigitalMarketingBlog1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DigitalMarketingBlog1.props",
+      "PackagePath": "build\\DigitalMarketingBlog1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DigitalMarketingBlog1.props",
+      "PackagePath": "buildMultiTargeting\\DigitalMarketingBlog1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DigitalMarketingBlog1.props",
+      "PackagePath": "buildTransitive\\DigitalMarketingBlog1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
